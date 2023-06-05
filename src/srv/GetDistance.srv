@@ -1,0 +1,4 @@
+string name #The name of the landmark to query
+---
+float64 distance #The distance, in meters to the landmark
+

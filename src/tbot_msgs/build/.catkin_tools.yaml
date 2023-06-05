@@ -1,0 +1,6 @@
+devel_space: /home/mm2/Desktop/ROS_trial/src/tbot_msgs/devel
+install: false
+install_space: /home/mm2/Desktop/ROS_trial/src/tbot_msgs/install
+profile: default
+source_space: /home/mm2/Desktop/ROS_trial/src/tbot_msgs/src
+workspace: /home/mm2/Desktop/ROS_trial/src/tbot_msgs
